@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * This class is our first Example class for review
- *
+ * Modified on January 23, 2020
  * @author Paul Bonenfant
  */
 public class StudentList {
